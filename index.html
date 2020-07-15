@@ -1,0 +1,661 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://roundboxanimation.com/xmlrpc.php">
+	
+<title>Rhodes Island</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="roundbox animation &raquo; Feed" href="https://roundboxanimation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="roundbox animation &raquo; Comments Feed" href="https://roundboxanimation.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/roundboxanimation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sydney-bootstrap-css'  href='https://roundboxanimation.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://roundboxanimation.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://roundboxanimation.com/wp-content/plugins/cpo-companion/assets/css/fontawesome.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cpo-companion-style-css'  href='https://roundboxanimation.com/wp-content/plugins/cpo-companion/assets/css/style.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A400%2C500%2C600' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-style-css'  href='https://roundboxanimation.com/wp-content/themes/sydney/style.css?ver=20180710' type='text/css' media='all' />
+<style id='sydney-style-inline-css' type='text/css'>
+.site-title { font-size:32px; }
+.site-description { font-size:16px; }
+#mainnav ul li a { font-size:14px; }
+h1 { font-size:52px; }
+h2 { font-size:42px; }
+h3 { font-size:32px; }
+h4 { font-size:25px; }
+h5 { font-size:20px; }
+h6 { font-size:18px; }
+body { font-size:16px; }
+.single .hentry .title-post { font-size:36px; }
+.header-image { background-size:cover;}
+.header-image { height:500px; }
+.site-header.float-header { background-color:rgba(30,115,190,0.9);}
+@media only screen and (max-width: 1024px) { .site-header { background-color:#1e73be;}}
+.site-title a, .site-title a:hover { color:#ffffff}
+.site-description { color:#ffffff}
+#mainnav ul li a, #mainnav ul li::before { color:#ffffff}
+#mainnav .sub-menu li a { color:#ffffff}
+#mainnav .sub-menu li a { background:#1c1c1c}
+.text-slider .maintitle, .text-slider .subtitle { color:#ffffff}
+body { color:#47425d}
+#secondary { background-color:#ffffff}
+#secondary, #secondary a, #secondary .widget-title { color:#767676}
+.footer-widgets { background-color:#111111}
+.btn-menu { color:#ffffff}
+#mainnav ul li a:hover { color:#d65050}
+.site-footer { background-color:#1c1c1c}
+.site-footer,.site-footer a { color:#666666}
+.overlay { background-color:#000000}
+.page-wrap { padding-top:79px;}
+.page-wrap { padding-bottom:100px;}
+@media only screen and (max-width: 1025px) {		
+			.mobile-slide {
+				display: block;
+			}
+			.slide-item {
+				background-image: none !important;
+			}
+			.header-slider {
+			}
+			.slide-item {
+				height: auto !important;
+			}
+			.slide-inner {
+				min-height: initial;
+			} 
+		}
+@media only screen and (max-width: 780px) { 
+    	h1 { font-size: 32px;}
+		h2 { font-size: 28px;}
+		h3 { font-size: 22px;}
+		h4 { font-size: 18px;}
+		h5 { font-size: 16px;}
+		h6 { font-size: 14px;}
+    }
+
+</style>
+<link rel='stylesheet' id='sydney-font-awesome-css'  href='https://roundboxanimation.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=5.2.7' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='sydney-ie9-css'  href='https://roundboxanimation.com/wp-content/themes/sydney/css/ie9.css?ver=5.2.7' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='elementor-icons-css'  href='https://roundboxanimation.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://roundboxanimation.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://roundboxanimation.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3568-css'  href='https://roundboxanimation.com/wp-content/uploads/elementor/css/post-3568.css?ver=1592975073' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-v4-grid-css'  href='https://roundboxanimation.com/wp-content/plugins/kali-forms//public/assets/frontend/vendor/bootstrap-grid.min.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='kaliforms-frontend-css'  href='https://roundboxanimation.com/wp-content/plugins/kali-forms//public/assets/frontend/css/frontend.css?ver=1.2.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://roundboxanimation.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://roundboxanimation.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://roundboxanimation.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://roundboxanimation.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+<link rel="canonical" href="https://roundboxanimation.com/" />
+<link rel='shortlink' href='https://roundboxanimation.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://roundboxanimation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froundboxanimation.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://roundboxanimation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froundboxanimation.com%2F&#038;format=xml" />
+	<style type="text/css">
+		.header-image {
+			background-image: url(gambar/RI.jpg);
+			display: block;
+		}
+		@media only screen and (max-width: 1024px) {
+			.header-inner {
+				display: block;
+			}
+			.header-image {
+				background-image: none;
+				height: auto !important;
+			}		
+		}
+	</style>
+			<style type="text/css" id="wp-custom-css">
+			.sydney-social-row i {
+	font-size: 50px;
+}
+.sydney-social-row a,
+.sydney-social-row i {
+	width: auto;
+}
+.sydney-social-row i:before {
+	position: static;
+}
+
+
+.sydney-progress .elementor-progress-wrapper {
+	height: 10px;
+	line-height: 1;
+}
+.sydney-progress .elementor-progress-percentage {
+	font-size: 16px;
+	position: relative;
+	top: -30px;
+}
+.sydney-progress .elementor-progress-bar {
+	height: 100%;
+}
+.sydney-progress .elementor-title {
+	display: block;
+	margin-bottom: 10px;
+}		</style>
+		</head>
+
+<body class="home page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-3568 elementor-default elementor-page elementor-page-3568">
+
+	<div class="preloader">
+	    <div class="spinner">
+	        <div class="pre-bounce1"></div>
+	        <div class="pre-bounce2"></div>
+	    </div>
+	</div>
+	
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-wrap">
+            <div class="container">
+                <div class="row">
+				<div class="col-md-4 col-sm-8 col-xs-12">
+		           <a href="https://roundboxanimation.com/" title="roundbox animation"><img class="site-logo" src="https://www.yondaapk4you.com/wp-content/uploads/2020/01/logo.364fe65a.png" alt="roundbox animation" /></a>
+		        				</div>
+				<div class="col-md-8 col-sm-4 col-xs-12">
+					<div class="btn-menu"></div>
+					<nav id="mainnav" class="mainnav" role="navigation">
+						<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-3586" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3586"><a href="http://roundboxanimation.com" aria-current="page">Home</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174"><a href="#works">Works</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175"><a href="#about">About</a></li>
+<li id="menu-item-3578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3578"><a href="#contact">Contact</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+				</div>
+				</div>
+			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	
+	<div class="sydney-hero-area">
+				<div class="header-image">
+						<img class="header-inner" src="gambar/RI.jpg" width="1920" alt="roundbox animation" title="roundbox animation">
+		</div>
+		
+			</div>
+
+	
+	<div id="content" class="page-wrap">
+		<div class="container content-wrapper">
+			<div class="row">	
+	<div id="primary" class="fp-content-area">
+		<main id="main" class="site-main" role="main">
+
+			<div class="entry-content">
+											<div data-elementor-type="wp-post" data-elementor-id="3568" class="elementor elementor-3568" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-f6f5e0e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f6f5e0e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-df3b35a elementor-column elementor-col-100 elementor-top-column" data-id="df3b35a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-11f8bc4 elementor-widget elementor-widget-spacer" data-id="11f8bc4" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-34741c3 elementor-invisible elementor-widget elementor-widget-heading" data-id="34741c3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">GACHA, GACHA, GACHA</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-995905a elementor-widget elementor-widget-divider" data-id="995905a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e707f6f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e707f6f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-22a4be7 elementor-column elementor-col-100 elementor-top-column" data-id="22a4be7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dbb36b4 elementor-widget elementor-widget-menu-anchor" data-id="dbb36b4" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="works" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4900c91 elementor-widget elementor-widget-heading" data-id="4900c91" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Gameplay</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-79d0f07 elementor-widget elementor-widget-athemes-portfolio" data-id="79d0f07" data-element_type="widget" data-widget_type="athemes-portfolio.default">
+				<div class="elementor-widget-container">
+			
+		<div class="project-wrap portfolio-section style1">
+
+			<ul class="project-filter" id="filters">
+				<li><a href="#" data-filter="*">Show all</a></li>
+
+				
+																																																										
+				
+					<li><a href='#' data-filter='.featured'>Featured</a></li>
+
+				
+					<li><a href='#' data-filter='.series'>Series</a></li>
+
+				
+			</ul>
+
+			<div class="roll-project fullwidth">
+				<div class="isotope-container" data-portfolio-effect="fadeInUp">
+
+								                    
+				<div class="project-item item isotope-item featured">
+					<div class="project-inner">
+						
+						
+						<a >
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Splash Game</span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/avg1.png"/>
+						</a>
+					</div>
+				</div>
+
+								                    
+				<div class="project-item item isotope-item series">
+					<div class="project-inner">
+						
+						
+						<a >
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Strategi Game</span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/avg2.png"/>
+						</a>
+					</div>
+				</div>
+
+								                    
+				<div class="project-item item isotope-item series">
+					<div class="project-inner">
+						
+						
+						<a >
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Class Operator</span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/operator.png"/>
+						</a>
+					</div>
+				</div>
+
+								                    
+				<div class="project-item item isotope-item featured">
+					<div class="project-inner">
+						
+						
+						<a >
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Gameplay Arknights </span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/Gameplay.png"/>
+						</a>
+					</div>
+				</div>
+
+								                    
+				<div class="project-item item isotope-item series">
+					<div class="project-inner">
+						
+						
+						<a href="https://www.youtube.com/watch?v=Hfu_I0V3VrM" class="project-pop-wrap">
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Reunion </span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/avg3.png"/>
+						</a>
+					</div>
+				</div>
+
+								                    
+<!-- 				<div class="project-item item isotope-item series">
+					<div class="project-inner">
+						
+						
+						<a>
+							<div class="project-pop"></div>
+							<div class="project-title-wrap">
+								<h3 class="project-title">
+									<span>Event Contingency Contract</span>
+								</h3>
+							</div>							
+						</a>
+						<a href="#">
+							<img src="gambar/cc.png">
+						</a>
+					</div>
+				</div> -->
+
+								
+				</div>
+			</div>
+		</div>
+
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-238a4f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="238a4f0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-be705ad elementor-column elementor-col-50 elementor-top-column" data-id="be705ad" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4ed25b3 elementor-widget elementor-widget-menu-anchor" data-id="4ed25b3" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="about" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-886f0c2 elementor-widget elementor-widget-heading" data-id="886f0c2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">About Game Arknights</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6192c4a elementor-widget elementor-widget-divider" data-id="6192c4a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ef80a20 elementor-widget elementor-widget-text-editor" data-id="ef80a20" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">
+						<p>Arknights is a Chinese mobile tower defense gacha video game developed by Studio Montagne, Hypergryph. It was first released in China on 1 May 2019. Its global server was then released on 16 January 2020 by Yostar. The game is available on iOS and Android platforms</p>
+						</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ca7e068 elementor-column elementor-col-50 elementor-top-column" data-id="ca7e068" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ee86dd9 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="ee86dd9" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/watch?v=ZSgi1-QFETwfeature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-0fbe885 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0fbe885" data-element_type="section" id="team" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5380c96 elementor-column elementor-col-100 elementor-top-column" data-id="5380c96" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c9ea552 elementor-widget elementor-widget-heading" data-id="c9ea552" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Info</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-41ff1fb elementor-widget elementor-widget-divider" data-id="41ff1fb" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8986f80 elementor-widget elementor-widget-athemes-employee-carousel" data-id="8986f80" data-element_type="widget" data-widget_type="athemes-employee-carousel.default">
+				<div class="elementor-widget-container">
+			
+		<div class="roll-team carousel owl-carousel" data-widgetid="employees-">
+										<div class="team-item">
+			    <div class="team-inner">
+			        <div class="pop-overlay">
+			            <div class="team-pop">
+			                <div class="team-info">
+								<div class="name">Rhodes Island</div>
+								<ul class="team-social"></ul>
+			                </div>
+			            </div>
+			        </div>
+										<div class="avatar">
+						<img src="gambar/rhodes.jpg"/>
+					</div>
+								    </div>
+			    <div class="team-content">
+			        <div class="name">
+			        				        		<a href="#">Rhodes Island</a>
+			        				        </div>
+			    </div>
+			</div><!-- /.team-item -->
+
+										<div class="team-item">
+			    <div class="team-inner">
+			        <div class="pop-overlay">
+			            <div class="team-pop">
+			                <div class="team-info">
+								<div class="name">Reunion</div>
+								<ul class="team-social">
+																																			</ul>
+			                </div>
+			            </div>
+			        </div>
+										<div class="avatar">
+						<img src="gambar/reunion.jpg"/>
+					</div>
+								    </div>
+			    <div class="team-content">
+			        <div class="name">Reunion </div>
+			    </div>
+			</div><!-- /.team-item -->
+
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cb543e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cb543e3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-93fea30 elementor-column elementor-col-100 elementor-top-column" data-id="93fea30" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f3a2560 elementor-widget elementor-widget-menu-anchor" data-id="f3a2560" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="contact" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+									</div><!-- .entry-content -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+			</div>
+		</div>
+	</div><!-- #content -->
+
+	
+			
+
+	
+	<div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
+		<div class="container">
+							<div class="sidebar-column col-md-6">
+					<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Find Us</h3>			<div class="textwidget"><p><strong>Address</strong><br />
+Kav.Bukit Sangkuriang</p>
+<p>Kota Cimahi</p>
+<p>Indonesia</p>
+<p>&nbsp;</p>
+</div>
+		</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><p>email : setyautsugi17@gmail.com</p>
+</div>
+		</aside>				</div>
+				
+							<div class="sidebar-column col-md-6">
+					<aside id="text-7" class="widget widget_text">			<div class="textwidget"><p>gacha, gacha, gacha</p>
+</div>
+		</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>July 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td id="today">15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="2">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>				</div>
+				
+							<div class="sidebar-column col-md-6">
+									</div>
+				
+				
+		</div>	
+	</div>	
+    <a class="go-top"><i class="fa fa-angle-up"></i></a>
+		
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info container">
+			<center><img src="https://webusstatic.yo-star.com/ark_us_web/pc/img/logo.40a7521d.png"/></center>
+	</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+	
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/sydney-toolbox/js/main.js?ver=20180228'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/themes/sydney/js/scripts.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/themes/sydney/js/main.min.js?ver=20180716'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var KaliFormsObject = {"ajaxurl":"https:\/\/roundboxanimation.com\/wp-admin\/admin-ajax.php","frontendUrl":"https:\/\/roundboxanimation.com","translations":{"general":{"loading":"LOADING"},"filePond":{"labelIdle":"Drag &amp; Drop your files or <span class=\"filepond--label-action\"> Browse <\/span>","labelInvalidField":"Field contains invalid files","labelFileWaitingForSize":"Waiting for size","labelFileSizeNotAvailable":"Size not available","labelFileLoading":"Loading","labelFileLoadError":"Error during load","labelFileProcessing":"Uploading","labelFileProcessingComplete":"Upload complete","labelFileProcessingAborted":"Upload cancelled","labelFileProcessingError":"Error during upload","labelFileProcessingRevertError":"Error during revert","labelFileRemoveError":"Error during remove","labelTapToCancel":"tap to cancel","labelTapToRetry":"tap to retry","labelTapToUndo":"tap to undo","labelButtonRemoveItem":"Remove","labelButtonAbortItemLoad":"Abort","labelButtonRetryItemLoad":"Retry","labelButtonAbortItemProcessing":"Cancel","labelButtonUndoItemProcessing":"Undo","labelButtonRetryItemProcessing":"Retry","labelButtonProcessItem":"Upload"}},"ajax_nonce":"f76dca05cc"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/kali-forms//public/assets/frontend/js/frontend.js?ver=1.2.0'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.8.3'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.8.3","urls":{"assets":"https:\/\/roundboxanimation.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes"},"editorPreferences":[]},"post":{"id":3568,"title":"My front page","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://roundboxanimation.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.8.3'></script>
+
+</body>
+</html>
